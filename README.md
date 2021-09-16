@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Stefano Fossati</h1>
+<h3 align="center">I'm currently attending the degree course in Computer Science Engineering at Politecnico di Milano. I'm passionate about coding.</h3>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/stefano-fossati-9ab54921b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stefanofossati" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 
 <!--
 **stefanofossati/stefanofossati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
