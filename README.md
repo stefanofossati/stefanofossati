@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefano Fossati</h1>
-<h3 align="center">I am a Ph.D. candidate at [JADS](https://www.jads.nl). My research is focused on software infrastructure, with a particular interest in observability, maintainability, and resilience. I earned my M.Sc. in Computer Science and Engineering from Politecnico di Milano.</h3>
+<h3 align="center">I am a Ph.D. candidate at JADS. My research is focused on software infrastructure, with a particular interest in observability, maintainability, and resilience. I earned my M.Sc. in Computer Science and Engineering from Politecnico di Milano.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
